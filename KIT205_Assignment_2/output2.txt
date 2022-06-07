@@ -1,0 +1,15 @@
+// option 5 output
+abc 3
+abc101 1
+abc102 0
+ghi 2
+
+// option 6 output
+111111
+123456
+999999
+
+// option 7 output
+abc
+abc101
+ghi

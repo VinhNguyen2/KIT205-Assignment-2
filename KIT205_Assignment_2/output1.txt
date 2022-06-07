@@ -1,0 +1,7 @@
+// option 5 output
+abc 3
+abc101 1
+abc102 0
+def 2
+def101 0
+ghi 2
